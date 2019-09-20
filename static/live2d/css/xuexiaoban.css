@@ -1,0 +1,29 @@
+#landlord {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  font-size: 0;
+  transition: all .3s ease-in-out;
+  -webkit-transform: translateY(3px);
+  transform: translateY(3px);
+}
+
+.message {
+  opacity: 0;
+  width: 250px;
+  height: 70px;
+  top: -5px;
+  right: 10px;
+  padding: 5px 10px;
+  border: 2px solid rgb(57, 57, 57);
+  background-color: #fff;
+  font-size: 13px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  position: absolute;
+  animation-duration: 50s;
+  animation-iteration-count: infinite;
+  animation-name: shake;
+  animation-timing-function: ease-in-out;
+}
