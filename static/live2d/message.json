@@ -1,5 +1,8 @@
 {
   "mouseover": [{
+      "selector": "#home",
+      "text": ["要回到 主页 么？"]
+    }, {
       "selector": "#article",
       "text": ["要看看 技术文章 么？"]
     },
