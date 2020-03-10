@@ -1,22 +1,24 @@
 {
   "images": [{
-      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.0/static/img/6.jpg"
+      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/6.jpg"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.0/static/img/5.png"
+      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/5.png"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.0/static/img/4.jpg"
+      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/4.jpg"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.0/static/img/3.png"
+      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/3.png"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.0/static/img/2.jpg"
+      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/2.jpg"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.0/static/img/1.jpg"
+      "src": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/1.jpg"
     }
   ],
-  "bg": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.0/static/img/background.jpg"
+  "bg": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/background.jpg",
+  "bg2": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/bg2.jpg",
+  "bg3": "https://cdn.jsdelivr.net/gh/peinkid/live2d@1.1/static/img/bg3.jpg"
 }
